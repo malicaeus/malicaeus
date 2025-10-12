@@ -1,36 +1,36 @@
 <!-- meta -->
-<meta name="keywords" content="développeur fullstack, cybersécurité, react, python, portfolio, ethical hacking, dev, web dev, minecraft">
-<meta name="author" content="Élie du Cailar">
+<meta name="keywords" content="Malicæus, cybersécurité, hacking, ethical hacking, cryptographie, développeur fullstack, post-quantum, tech obscure">
+<meta name="author" content="Malicæus">
 
-# 👋 Salut, moi c'est Élie !
+# 👁️ Salut, je suis Malicæus
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Développeur%20Full-Stack&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersécurité%20•%20Innovation%20•%20Gaming&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Malic%C3%A6us&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cryptographie%20•%20Tech%20Obscure%20•%20Innovation&descAlignY=55&descSize=20)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://elie-dev.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elieducailar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://malicaeus.vercel.app/)
 
 </div>
 
-## 🚀 À propos de moi
+---
 
-Passionné par l'intersection entre **technologie**, **sécurité** et **créativité**, je suis un développeur full-stack qui transforme des idées complexes en solutions digitales élégantes. Spécialisé dans la création d'applications web haute performance et la sécurisation d'infrastructures, j'accompagne startups et entreprises établies dans leur transformation numérique.
+## 🕵️ À propos de moi
 
-Quand je ne code pas, vous me trouverez en train de créer des univers immersifs dans Minecraft ou d'explorer les dernières vulnérabilités en cybersécurité ! 🎮🔐
+Je navigue dans les **zones obscures du code**, là où la technologie rencontre la sécurité et l'ingéniosité. Développeur full-stack et cryptographe amateur, je transforme des systèmes complexes en architectures élégantes et robustes, toujours avec un regard analytique et un goût pour le secret.  
+
+Quand je ne trace pas de flux de données ou ne scrute pas des vulnérabilités, je m'immerge dans des mondes virtuels ou je teste les limites de systèmes expérimentaux.  
 
 *[🇬🇧 English version available here](./EN-README.md)*
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Arsenal Technique
 
 <div align="center">
 
 ### Langages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,8 +39,6 @@ Quand je ne code pas, vous me trouverez en train de créer des univers immersifs
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### DevOps & Cloud
@@ -64,50 +62,46 @@ Quand je ne code pas, vous me trouverez en train de créer des univers immersifs
 
 <div align="center">
 
-| 🎮 **LostHorizon** | 💼 **Awesome Readme Templates** | 🔒 **BlackBox** |
+| 🎮 **LostHorizon** | 💼 **BlackVault Templates** | 🔒 **BlackBox** |
 |:---:|:---:|:---:|
-| Mod Minecraft RPG fusionnant magie et technologie | Templates de Readme pour profils github | Plateforme de chiffrement quantum-resistant |
-| `Java` `Forge` `JSON` | `Markdown` | `React` `Cryptography` `Post-Quantum` |
+| Mod Minecraft RPG fusionnant magie et technologie | Templates obscurs pour Readme & portfolios | Plateforme de chiffrement quantum-resistant |
+| `Java` `NeoForge` `JSON` | `Markdown` | `React` `Cryptography` `Post-Quantum` |
 
 </div>
 
 ### 🌟 Projets récents
 
-- **🎯 BlackBox** - [Live Demo](https://blackbox-demo.vercel.app/) - Plate-forme de chiffrement de texte avancée avec des capacités de résistance quantique
-    - Prise en charge de plusieurs algorithmes : AES, ChaCha20, algorithme personnalisé, Kyber (post-quantique)
-    - Graduation de la résistance quantique de la cryptographie classique à la cryptographie post-quantique
-    - Mode furtif avec génération sécurisée de jetons (UUID, clés API)
+- **🎯 BlackBox** - [Live Demo](https://blackbox-demo.vercel.app/) - Système de chiffrement avancé avec résistance post-quantique  
+    - AES, ChaCha20, Kyber, et algorithmes custom  
+    - Mode furtif et génération sécurisée de jetons  
     - `React` `TypeScript` `Cryptographie` `Post-Quantum`
 
-- **📜 Awesome README Templates** - [Projet](https://github.com/elieduclr/Awesome-Readme-Templates) - Collection de templates professionnels pour README
-    - Prise en charge de multiples profils : Débutants, Professionnels, Créatifs, Spécialistes techniques
-    - Graduation de complexité des templates simples aux designs avancés
-    - Mode "Quick Start" avec guides de personnalisation pas-à-pas
+- **📜 BlackVault Templates** - [Projet](https://github.com/malicaeus/Awesome-Readme-Templates) - Templates professionnels pour README  
+    - Du simple au complexe, designs élégants et mystérieux  
+    - Mode "Quick Start" avec personnalisation pas-à-pas  
     - `Markdown` `GitHub` `Badges` `Mermaid` `Portfolio`
 
 ---
 
-## 📈 Statistiques GitHub
+## 📈 GitHub Stats
 
 <div align="center">
 
-<!--STATS-TIMESTAMP:1751938660-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malicaeus&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malicaeus&theme=tokyonight&layout=compact&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elieduclr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=<!--STATS-TIMESTAMP:1751938660-->" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elieduclr&theme=tokyonight&layout=compact&hide_border=true&v=<!--STATS-TIMESTAMP:1751938660-->" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=elieduclr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=malicaeus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎓 Apprentissage continu
+## 🎓 Savoir & Obscurité
 
 ```mermaid
 graph LR
-    A[🔬 Informatique Quantique] --> B[🔐 Post-Quantum Cryptography]
-    C[🎮 Game Development] --> D[🏗️ Minecraft Modding]
+    A[🔬 Quantum Computing] --> B[🔐 Post-Quantum Cryptography]
+    C[🎮 Game Dev] --> D[🏗️ Minecraft Modding]
     E[🤖 AI Security] --> F[🛡️ Adversarial ML]
     B --> G[🚀 Innovation]
     D --> G
@@ -115,44 +109,36 @@ graph LR
 ```
 
 ### 📚 Focus actuel
-- **Cryptographie post-quantique** et son impact sur la sécurité moderne
-- **Développement de jeux** avec un focus sur l'écosystème Minecraft/Forge
-- **Intelligence artificielle** appliquée à la détection de menaces
-- **Optimisation des performances** pour applications web haute charge
+- **Cryptographie post-quantique & sécurité moderne**
+- **Développement immersif sur Minecraft/NeoForge**
+- **AI appliquée à la détection de menaces**
+- **Optimisation pour systèmes à haute charge**
 
 ---
 
 ## 🏆 Expertise
-
 <div align="center">
 
 | Cybersécurité | Développement | Cloud & DevOps |
 |:---:|:---:|:---:|
 | 🎯 Penetration Testing | ⚡ Performance Optimization | ☁️ Cloud Architecture |
-| 🔐 Ethical Hacking | 🎨 UI/UX Implementation | 🔄 CI/CD Pipelines |
-| 🛡️ Security Auditing | 📱 Responsive Design | 🐳 Containerization |
+| 🔐 Ethical Hacking | 🎨 UI/UX Implementation | 🔄 CI/CD Pipelines | | 🛡️ Security Auditing | 📱 Responsive Design | 🐳 Containerization |
 
 </div>
 
----
+## 💬 Collaborons dans l'ombre
+Je recherche toujours des projets qui repoussent les limites : applications web, sécurité, IA ou univers immersifs.
 
-## 💬 Collaborons ensemble !
-
-Je suis toujours ouvert aux **nouvelles opportunités**, aux **projets innovants** et aux **collaborations** qui poussent les limites de la technologie. Que vous ayez besoin d'aide pour :
-
-- 🚀 Développer une application web moderne
-- 🔒 Sécuriser votre infrastructure
-- 🎮 Créer des expériences de jeu uniques
-- 🤖 Intégrer l'IA dans vos solutions
-
-N'hésitez pas à me contacter !
+- 🚀 Développement moderne & sophistiqué
+- 🔒 Sécurisation avancée d'infrastructures
+- 🎮 Expériences ludiques & immersives
+- 🤖 IA & sécurité offensive
 
 <div align="center">
 
 ### 📫 Restons connectés
 
-[![Email](https://img.shields.io/badge/📧%20Email-elieducailar@gmail.com-red?style=for-the-badge)](mailto:elieducailar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-elie--dev.vercel.app-blue?style=for-the-badge)](https://elie-dev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-malicaeus.vercel.app-blue?style=for-the-badge)](https://malicaeus.vercel.app/)
 
 ---
 
