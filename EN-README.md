@@ -15,7 +15,7 @@
 
 ## About
 
-I design digital architectures with rigor and discretion. My approach blends technical mastery with a sense of aesthetics, inherited from artisanal craftsmanship.  
+I design digital architectures with rigor and discretion. My approach blends technical mastery with a sense of aesthetics.  
 Security and innovation are the pillars of my work. Each project is conceived as a lasting piece, built to withstand time and threats.
 
 ---
