@@ -2,148 +2,94 @@
 <meta name="keywords" content="Malicæus, cybersécurité, hacking, ethical hacking, cryptographie, développeur fullstack, post-quantum, tech obscure">
 <meta name="author" content="Malicæus">
 
-# 👁️ Salut, je suis Malicæus
+<div align="center">
+
+# Malicæus
+
+*Cryptographie &nbsp;·&nbsp; Architecture &nbsp;·&nbsp; Discrétion*  
+**Aurum potestas est**
+
+---
+
+</div>
+
+## À propos
+
+Je conçois des architectures numériques avec rigueur et discrétion. Mon approche mêle maîtrise technique et sens de l’esthétique, héritage d’un savoir-faire artisanal.  
+La sécurité et l’innovation sont les piliers de mes réalisations. Chaque projet est pensé comme un ouvrage durable, à l’épreuve du temps et des menaces.
+
+---
+
+## Savoir-faire
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Malic%C3%A6us&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cryptographie%20•%20Tech%20Obscure%20•%20Innovation&descAlignY=55&descSize=20)
+**Langages**  
+Python · TypeScript · JavaScript · PHP · HTML/CSS · Java
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://malicaeus.vercel.app/)
+**Frameworks & Librairies**  
+React · Node.js · Express · Next.js
+
+**Cloud & DevOps**  
+Docker · Kubernetes · AWS · Azure · Nginx
+
+**Sécurité & Outils**  
+Linux · Kali Linux · Wireshark · Git · Cryptographie post-quantique
 
 </div>
 
 ---
 
-## 🕵️ À propos de moi
+## Projets
 
-Je navigue dans les **zones obscures du code**, là où la technologie rencontre la sécurité et l'ingéniosité. Développeur full-stack et cryptographe amateur, je transforme des systèmes complexes en architectures élégantes et robustes, toujours avec un regard analytique et un goût pour le secret.  
+### Phares
 
-Quand je ne trace pas de flux de données ou ne scrute pas des vulnérabilités, je m'immerge dans des mondes virtuels ou je teste les limites de systèmes expérimentaux.  
+- **BlackBox** – Chiffrement hybride post-quantique (ChaCha20, AES-GCM, obfuscation, HMAC)  
+  *TypeScript · React · Cryptographie* — [Démo live](https://blackbox-demo.vercel.app/)
 
-*[🇬🇧 English version available here](./EN-README.md)*
+- **LostHorizon** – Mod Minecraft enrichissant l’exploration avec structures, créatures et métiers inédits  
+  *Java · NeoForge* — [Dépôt](https://github.com/malicaeus/LostHorizon)
+
+- **BlackNote** – Gestionnaire de notes local chiffré de bout en bout, sans serveur  
+  *TypeScript · React · ChaCha20* — [Dépôt](https://github.com/malicaeus/BlackNote)
+
+- **Awesome-Readme-Templates** – Collection de modèles README élégants pour profils GitHub  
+  *Markdown* — [Dépôt](https://github.com/malicaeus/Awesome-Readme-Templates)
+
+### Autres réalisations
+
+- **Wigle-Stats-HA** – Intégration Home Assistant pour vos statistiques WiGle (WiFi, Bluetooth, classement)  
+  *Python · Home Assistant* — [Dépôt](https://github.com/malicaeus/Wigle-Stats-HA)
+
+- **Codex** – Wiki moderne en Markdown, organisé en fichiers  
+  *TypeScript* — [Dépôt](https://github.com/malicaeus/Codex)
+
+- **Manifeste-Ombre-Numerique** – Manifeste pour la défense de l’ombre numérique  
+  [Dépôt](https://github.com/malicaeus/Manifeste-Ombre-Numerique)
 
 ---
 
-## 🛠️ Arsenal Technique
+## Activité
 
 <div align="center">
 
-### Langages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malicaeus&show_icons=true&hide_border=true&bg_color=f5f2ed&title_color=c9a96e&text_color=2c2416&icon_color=c9a96e&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malicaeus&layout=compact&hide_border=true&bg_color=f5f2ed&title_color=c9a96e&text_color=2c2416" />
 
-### Frameworks & Librairies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Sécurité & Outils
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=malicaeus&hide_border=true&background=f5f2ed&stroke=c9a96e&ring=c9a96e&fire=c9a96e&currStreakNum=2c2416&sideNums=2c2416&currStreakLabel=c9a96e&sideLabels=c9a96e&dates=5a5246)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎯 Projets en cours
-
 <div align="center">
 
-| 🎮 **LostHorizon** | 💼 **BlackVault Templates** | 🔒 **BlackBox** |
-|:---:|:---:|:---:|
-| Mod Minecraft RPG fusionnant magie et technologie | Templates obscurs pour Readme & portfolios | Plateforme de chiffrement quantum-resistant |
-| `Java` `NeoForge` `JSON` | `Markdown` | `React` `Cryptography` `Post-Quantum` |
+*Memento mori &nbsp;·&nbsp; Ad astra per aspera &nbsp;·&nbsp; In perpetuum*
 
-</div>
-
-### 🌟 Projets récents
-
-- **🎯 BlackBox** - [Live Demo](https://blackbox-demo.vercel.app/) - Système de chiffrement avancé avec résistance post-quantique  
-    - AES, ChaCha20, Kyber, et algorithmes custom  
-    - Mode furtif et génération sécurisée de jetons  
-    - `React` `TypeScript` `Cryptographie` `Post-Quantum`
-
-- **📜 BlackVault Templates** - [Projet](https://github.com/malicaeus/Awesome-Readme-Templates) - Templates professionnels pour README  
-    - Du simple au complexe, designs élégants et mystérieux  
-    - Mode "Quick Start" avec personnalisation pas-à-pas  
-    - `Markdown` `GitHub` `Badges` `Mermaid` `Portfolio`
+[🇬🇧 English version available here](./EN-README.md)
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malicaeus&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malicaeus&theme=tokyonight&layout=compact&hide_border=true" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=malicaeus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎓 Savoir & Obscurité
-
-```mermaid
-graph LR
-    A[🔬 Quantum Computing] --> B[🔐 Post-Quantum Cryptography]
-    C[🎮 Game Dev] --> D[🏗️ Minecraft Modding]
-    E[🤖 AI Security] --> F[🛡️ Adversarial ML]
-    B --> G[🚀 Innovation]
-    D --> G
-    F --> G
-```
-
-### 📚 Focus actuel
-- **Cryptographie post-quantique & sécurité moderne**
-- **Développement immersif sur Minecraft/NeoForge**
-- **AI appliquée à la détection de menaces**
-- **Optimisation pour systèmes à haute charge**
-
----
-
-## 🏆 Expertise
-<div align="center">
-
-| Cybersécurité | Développement | Cloud & DevOps |
-|:---:|:---:|:---:|
-| 🎯 Penetration Testing | ⚡ Performance Optimization | ☁️ Cloud Architecture |
-| 🔐 Ethical Hacking | 🎨 UI/UX Implementation | 🔄 CI/CD Pipelines | | 🛡️ Security Auditing | 📱 Responsive Design | 🐳 Containerization |
-
-</div>
-
-## 💬 Collaborons dans l'ombre
-Je recherche toujours des projets qui repoussent les limites : applications web, sécurité, IA ou univers immersifs.
-
-- 🚀 Développement moderne & sophistiqué
-- 🔒 Sécurisation avancée d'infrastructures
-- 🎮 Expériences ludiques & immersives
-- 🤖 IA & sécurité offensive
-
-<div align="center">
-
-### 📫 Restons connectés
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-malicaeus.vercel.app-blue?style=for-the-badge)](https://malicaeus.vercel.app/)
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
-
-⭐ **Si mes projets vous intéressent, n'hésitez pas à laisser une étoile !** ⭐
+Votre confiance m’honore. Une étoile sur un dépôt est toujours appréciée.
 
 </div>
