@@ -15,7 +15,7 @@
 
 ## À propos
 
-Je conçois des architectures numériques avec rigueur et discrétion. Mon approche mêle maîtrise technique et sens de l’esthétique, héritage d’un savoir-faire artisanal.  
+Je conçois des architectures numériques avec rigueur et discrétion. Mon approche mêle maîtrise technique et sens de l’esthétique.  
 La sécurité et l’innovation sont les piliers de mes réalisations. Chaque projet est pensé comme un ouvrage durable, à l’épreuve du temps et des menaces.
 
 ---
