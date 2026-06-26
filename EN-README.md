@@ -64,9 +64,6 @@ Linux · Kali Linux · Wireshark · Git · Post-quantum cryptography
 - **Codex** – Modern file-based Markdown wiki  
   *TypeScript* — [Repository](https://github.com/malicaeus/Codex)
 
-- **Manifeste-Ombre-Numerique** – A manifesto for the defense of digital shadow  
-  [Repository](https://github.com/malicaeus/Manifeste-Ombre-Numerique)
-
 ---
 
 ## Activity
