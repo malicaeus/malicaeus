@@ -1,13 +1,13 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║                         MALICÆUS                            ║
-  ║              Cryptography · Architecture · Discretion      ║
+  ║             Intelligence · Systems · Science               ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=28&duration=3500&pause=1200&color=C9A96E&center=true&vCenter=true&width=700&lines=Cryptography+%C2%B7+Architecture+%C2%B7+Discretion;Security+by+design;Ad+astra+per+aspera" alt="Malicæus — Cryptography · Architecture · Discretion">
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=28&duration=3500&pause=1200&color=C9A96E&center=true&vCenter=true&width=700&lines=Intelligence+%C2%B7+Systems+%C2%B7+Science;Technology+%C2%B7+Research+%C2%B7+Design;Ad+astra+per+aspera" alt="Malicæus — Intelligence · Systems · Science">
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ### `Aurum potestas est`
 
-*Build with precision. Secure with rigor. Design to endure.*
+*Observe. Understand. Build.*
 
 <br>
 
@@ -36,25 +36,69 @@
 
 ## Ⅰ · About
 
-> **Technology is not merely a matter of performance.
-> It is a matter of architecture, trust, and mastery.**
+> **The best ideas often begin with a question.**
+>
+> *Then come experimentation, architecture, and a few lines of code.*
 
-I design digital systems with particular attention to **security**, **architectural coherence**, and user experience.
+Malicæus is my personal space for **research, experimentation, and digital creation**.
 
-My approach lies at the intersection of several disciplines:
+I explore ideas at the intersection of **technology, science, and software design**. Sometimes to build a tool, sometimes to understand a concept, and sometimes simply to see how far an idea can go.
 
-* 🔐 **Cryptography & security**
-* 🏛️ **Software architecture**
-* ⚛️ **Emerging technologies**
-* 💻 **Full-stack development**
-* ☁️ **Infrastructure & automation**
-* 🎨 **Digital design**
+My interests mainly revolve around:
 
-Every project is conceived as a crafted work: **simple in intent, rigorous in execution, and built to endure.**
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 💻 **Software Engineering & Web Development**
+* 🛡️ **Security & Privacy**
+* ⚛️ **Science & Emerging Technologies**
+* 🧬 **Digital Health & Biology**
+* ☁️ **Systems, Infrastructure & Automation**
+
+I value systems that are **coherent, understandable, and durable**: technology becomes interesting when it turns an idea into something real.
 
 ---
 
-## Ⅱ · Expertise
+## Ⅱ · An approach
+
+<div align="center">
+
+### `CURIOSITY`
+
+**Start by understanding.**
+
+Curiosity often comes before the solution.
+I prefer exploring a problem in depth before deciding how to solve it.
+
+<br>
+
+### `PRECISION`
+
+**Every detail matters.**
+
+Architecture, interface, performance, or security:
+small decisions eventually define the whole.
+
+<br>
+
+### `EXPERIMENTATION`
+
+**Build to learn.**
+
+Not every project is meant to become a product.
+Some simply exist to test a hypothesis.
+
+<br>
+
+### `ELEGANCE`
+
+**Keep complexity under control.**
+
+A sophisticated system does not need to be unnecessarily complicated.
+
+</div>
+
+---
+
+## Ⅲ · Technologies
 
 <div align="center">
 
@@ -64,43 +108,42 @@ Every project is conceived as a crafted work: **simple in intent, rigorous in ex
 
 <br><br>
 
-### `FRAMEWORKS · LIBRARIES`
+### `WEB · APPLICATIONS`
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
 
 <br><br>
 
-### `CLOUD · DEVOPS`
+### `SYSTEMS · INFRASTRUCTURE`
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,nginx" />
-
-<br><br>
-
-### `SECURITY · SYSTEMS`
-
-<img src="https://skillicons.dev/icons?i=linux,kali,git" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,nginx,git" />
 
 <br><br>
 
-`Post-Quantum Cryptography` · `Applied Cryptography` · `Network Security`
+### `DOMAINS`
+
+`Artificial Intelligence` · `Security` · `Privacy` · `Automation`
+`Scientific Computing` · `Digital Health` · `Distributed Systems`
 
 </div>
 
 ---
 
-## Ⅲ · Projects
+## Ⅳ · Projects
 
-### ◈ Featured Projects
+### ◈ Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 BlackBox
+### 🧠 BlackBox
 
-**Hybrid post-quantum encryption**
+**Cryptography · Security · Research**
 
-A hybrid encryption architecture combining symmetric cryptography, authentication, and mechanisms designed to withstand future threats.
+An experiment focused on data protection and modern cryptographic architectures.
+
+The project explores the combination of cryptographic mechanisms in order to study their properties, limitations, and integration into a real application.
 
 `TypeScript` · `React` · `Cryptography`
 
@@ -114,9 +157,11 @@ A hybrid encryption architecture combining symmetric cryptography, authenticatio
 
 ### 🌌 LostHorizon
 
-**Minecraft · Exploration · Progression**
+**Exploration · Systems · Game Design**
 
-A Minecraft mod focused on exploration, introducing new structures, creatures, professions, and an expanded progression system.
+A Minecraft mod built around exploration, progression, and new gameplay systems.
+
+The goal is to create a coherent world rather than simply a collection of features.
 
 `Java` · `NeoForge`
 
@@ -132,9 +177,11 @@ A Minecraft mod focused on exploration, introducing new structures, creatures, p
 
 ### 🗝️ BlackNote
 
-**Encrypted local notes**
+**Privacy · Local-first · Software**
 
-A note manager built around a simple principle: data stays local and is encrypted end-to-end.
+A note-taking application built around a simple principle: keep data where it belongs.
+
+Local architecture, encryption, and a minimal interface come together in an application designed to remain simple to use.
 
 `TypeScript` · `React` · `ChaCha20`
 
@@ -146,17 +193,19 @@ A note manager built around a simple principle: data stays local and is encrypte
 
 <td width="50%" valign="top">
 
-### 📜 Awesome-Readme-Templates
+### 📚 Codex
 
-**README · Design · Open Source**
+**Knowledge · Markdown · Web**
 
-A collection of README templates designed to create clean, elegant, and coherent GitHub profiles.
+A modern wiki built around Markdown files.
 
-`Markdown`
+The goal: preserve the simplicity and portability of plain text while providing a modern reading experience.
+
+`TypeScript`
 
 <br>
 
-→ **[View repository](https://github.com/malicaeus/Awesome-Readme-Templates)**
+→ **[View repository](https://github.com/malicaeus/Codex)**
 
 </td>
 </tr>
@@ -164,54 +213,57 @@ A collection of README templates designed to create clean, elegant, and coherent
 
 ---
 
-### ◇ Other Works
+### ◇ Experiments
 
 <details>
-<summary><strong>View other projects</strong></summary>
+<summary><strong>Explore other work</strong></summary>
 
 <br>
 
-| Project                                                              | Description                                     | Technologies                |
-| :------------------------------------------------------------------- | :---------------------------------------------- | :-------------------------- |
-| 📡 **[Wigle-Stats-HA](https://github.com/malicaeus/Wigle-Stats-HA)** | WiGLE statistics integrated into Home Assistant | `Python` · `Home Assistant` |
-| 📚 **[Codex](https://github.com/malicaeus/Codex)**                   | Modern wiki based on Markdown files             | `TypeScript`                |
+| Project                                                                                  | Domain                 | Technologies                |
+| :--------------------------------------------------------------------------------------- | :--------------------- | :-------------------------- |
+| 📡 **[Wigle-Stats-HA](https://github.com/malicaeus/Wigle-Stats-HA)**                     | Data · Home Automation | `Python` · `Home Assistant` |
+| 📜 **[Awesome-Readme-Templates](https://github.com/malicaeus/Awesome-Readme-Templates)** | Design · Open Source   | `Markdown`                  |
 
 </details>
 
 ---
 
-## Ⅳ · Philosophy
+## Ⅴ · Research & curiosity
 
 <div align="center">
 
-### `SECURITY`
+```mermaid
+flowchart TD
+    A["CURIOSITY"] --> B["QUESTION"]
+    B --> C["EXPLORATION"]
 
-**Secure by design.**
+    C --> D["RESEARCH"]
+    C --> E["EXPERIMENTATION"]
 
-Security should not be a layer added at the end of a project.
-It should be present from the very beginning of its design.
+    D --> F["UNDERSTANDING"]
+    E --> F
 
-<br>
+    F --> G["CREATION"]
+    F --> H["NEW QUESTIONS"]
 
-### `SIMPLICITY`
+    H --> B
 
-**Mastered complexity.**
+    classDef main fill:#0f0f0f,stroke:#c9a96e,color:#c9a96e,stroke-width:1.5px;
+    classDef accent fill:#c9a96e,stroke:#c9a96e,color:#0f0f0f,stroke-width:2px;
 
-Technical sophistication only has value when it genuinely serves the system.
+    class A,B,C,D,E,F,H main;
+    class G accent;
+```
 
-<br>
-
-### `DURABILITY`
-
-**Built to last.**
-
-A good system should be able to evolve without losing its coherence.
+*Some ideas become projects.*
+*Others remain simply experiments.*
 
 </div>
 
 ---
 
-## Ⅴ · GitHub Activity
+## Ⅵ · GitHub activity
 
 <div align="center">
 
@@ -227,30 +279,29 @@ A good system should be able to evolve without losing its coherence.
 
 ---
 
-## Ⅵ · In a Few Words
+## Ⅶ · Principia
 
 <div align="center">
 
-```mermaid
-flowchart TD
-    A["PRECISION"] --> B["ARCHITECTURE"]
+### `I`
 
-    B --> C["SECURITY"]
-    B --> D["ELEGANCE"]
+**Question everything.**
 
-    C --> E["DURABILITY"]
-    D --> E
+### `II`
 
-    classDef main fill:#0f0f0f,stroke:#c9a96e,color:#c9a96e,stroke-width:1.5px;
-    classDef final fill:#c9a96e,stroke:#c9a96e,color:#0f0f0f,stroke-width:2px;
+**Build with intention.**
 
-    class A,B,C,D main;
-    class E final;
-```
+### `III`
 
-<br>
+**Prefer understanding to imitation.**
 
-**Curiosity · Precision · Security · Elegance · Progress**
+### `IV`
+
+**Let simplicity survive complexity.**
+
+### `V`
+
+**Leave room for the unknown.**
 
 </div>
 
@@ -260,14 +311,16 @@ flowchart TD
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:c9a96e,100:0f0f0f&height=100&section=footer" width="100%">
 
-### *Memento mori · Ad astra per aspera · In perpetuum*
+### *Ad astra per aspera*
+
+*Curiosity · Precision · Science · Elegance · Progress*
 
 <br>
 
-[🇫🇷 **French version**](./README.md)
+[🇫🇷 **Version française**](./README.md)
 
 <br>
 
-<sub>Your trust honors me. A star on a repository is always appreciated. ✦</sub>
+<sub>Some things are more interesting when discovered than explained. ✦</sub>
 
 </div>
