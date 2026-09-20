@@ -1,13 +1,13 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║                         MALICÆUS                            ║
-  ║              Cryptographie · Architecture · Discrétion     ║
+  ║              Intelligence · Systèmes · Science             ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=28&duration=3500&pause=1200&color=C9A96E&center=true&vCenter=true&width=700&lines=Cryptographie+%C2%B7+Architecture+%C2%B7+Discr%C3%A9tion;Security+by+design;Ad+astra+per+aspera" alt="Malicæus — Cryptographie · Architecture · Discrétion">
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=28&duration=3500&pause=1200&color=C9A96E&center=true&vCenter=true&width=700&lines=Intelligence+%C2%B7+Syst%C3%A8mes+%C2%B7+Science;Technologie+%C2%B7+Recherche+%C2%B7+Conception;Ad+astra+per+aspera" alt="Malicæus — Intelligence · Systèmes · Science">
 
 <br>
 
@@ -19,12 +19,12 @@
 
 ### `Aurum potestas est`
 
-*Construire avec précision. Sécuriser avec rigueur. Concevoir pour durer.*
+*Observer. Comprendre. Construire.*
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/malicaeus)
-[![Profile](https://img.shields.io/badge/Profile-C9A96E?style=flat-square\&logo=github\&logoColor=181717)](https://github.com/malicaeus)
+[![Profil](https://img.shields.io/badge/Profil-C9A96E?style=flat-square\&logo=github\&logoColor=181717)](https://github.com/malicaeus)
 
 <br>
 
@@ -36,71 +36,114 @@
 
 ## Ⅰ · À propos
 
-> **La technologie n'est pas seulement une question de performance.
-> C'est une question d'architecture, de confiance et de maîtrise.**
+> **Les meilleures idées commencent souvent par une question.**
+>
+> *Puis viennent l'expérimentation, l'architecture et quelques lignes de code.*
 
-Je conçois des systèmes numériques avec une attention particulière portée à la **sécurité**, à la **cohérence architecturale** et à l'expérience utilisateur.
+Malicæus est mon espace personnel de **recherche, d'expérimentation et de création numérique**.
 
-Mon approche se situe à l'intersection de plusieurs domaines :
+J'y explore des idées à la frontière entre **technologie, science et conception logicielle**. Parfois pour construire un outil, parfois pour comprendre un concept, parfois simplement pour voir jusqu'où une idée peut aller.
 
-* 🔐 **Cryptographie & sécurité**
-* 🏛️ **Architecture logicielle**
-* ⚛️ **Technologies émergentes**
-* 💻 **Développement full-stack**
-* ☁️ **Infrastructure & automatisation**
-* 🎨 **Design numérique**
+Mes centres d'intérêt gravitent notamment autour de :
 
-Chaque projet est pensé comme un ouvrage : **simple dans son intention, rigoureux dans son exécution et durable dans sa conception.**
+* 🤖 **Intelligence artificielle & apprentissage automatique**
+* 💻 **Génie logiciel & développement web**
+* 🛡️ **Sécurité & confidentialité**
+* ⚛️ **Sciences & technologies émergentes**
+* 🧬 **Santé numérique & biologie**
+* ☁️ **Systèmes, infrastructure & automatisation**
+
+Je privilégie les systèmes **cohérents, compréhensibles et durables** : une technologie n'est intéressante que lorsqu'elle permet de transformer une idée en quelque chose de réel.
 
 ---
 
-## Ⅱ · Savoir-faire
+## Ⅱ · Une approche
 
 <div align="center">
 
-### `LANGUAGES`
+### `CURIOSITÉ`
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,php,html,css,java" />
+**Commencer par comprendre.**
 
-<br><br>
+La curiosité précède souvent la solution.
+Je préfère explorer un problème en profondeur avant de décider comment le résoudre.
 
-### `FRAMEWORKS · LIBRARIES`
+<br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
+### `PRÉCISION`
 
-<br><br>
+**Chaque détail compte.**
 
-### `CLOUD · DEVOPS`
+Architecture, interface, performance ou sécurité :
+les petits choix finissent par définir l'ensemble.
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,nginx" />
+<br>
 
-<br><br>
+### `EXPÉRIMENTATION`
 
-### `SECURITY · SYSTEMS`
+**Construire pour apprendre.**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,git" />
+Tous les projets n'ont pas vocation à devenir des produits.
+Certains existent simplement pour tester une hypothèse.
 
-<br><br>
+<br>
 
-`Post-Quantum Cryptography` · `Applied Cryptography` · `Network Security`
+### `ÉLÉGANCE`
+
+**La complexité doit rester maîtrisée.**
+
+Un système sophistiqué n'a pas besoin d'être inutilement compliqué.
 
 </div>
 
 ---
 
-## Ⅲ · Projets
+## Ⅲ · Technologies
 
-### ◈ Projets phares
+<div align="center">
+
+### `LANGAGES`
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,html,css,java" />
+
+<br><br>
+
+### `WEB · APPLICATIONS`
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
+
+<br><br>
+
+### `SYSTÈMES · INFRASTRUCTURE`
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,nginx,git" />
+
+<br><br>
+
+### `DOMAINES`
+
+`Intelligence artificielle` · `Sécurité` · `Confidentialité` · `Automatisation`
+`Calcul scientifique` · `Santé numérique` · `Systèmes distribués`
+
+</div>
+
+---
+
+## Ⅳ · Projets
+
+### ◈ Projets en vedette
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 BlackBox
+### 🧠 BlackBox
 
-**Chiffrement hybride post-quantique**
+**Cryptographie · Sécurité · Recherche**
 
-Une architecture de chiffrement combinant cryptographie symétrique, authentification et mécanismes résistants aux menaces futures.
+Une expérimentation autour de la protection des données et des architectures cryptographiques modernes.
+
+Le projet explore notamment la combinaison de mécanismes cryptographiques afin d'étudier leurs propriétés, leurs limites et leur intégration dans une application réelle.
 
 `TypeScript` · `React` · `Cryptography`
 
@@ -114,9 +157,11 @@ Une architecture de chiffrement combinant cryptographie symétrique, authentific
 
 ### 🌌 LostHorizon
 
-**Minecraft · Exploration · Progression**
+**Exploration · Systèmes · Game Design**
 
-Un mod Minecraft centré sur l'exploration, les structures inédites, les créatures et un système de progression enrichi.
+Un mod Minecraft construit autour de l'exploration, de la progression et de nouveaux systèmes de jeu.
+
+L'objectif est de créer un univers cohérent plutôt qu'une simple collection de fonctionnalités.
 
 `Java` · `NeoForge`
 
@@ -132,9 +177,11 @@ Un mod Minecraft centré sur l'exploration, les structures inédites, les créat
 
 ### 🗝️ BlackNote
 
-**Notes locales chiffrées**
+**Confidentialité · Local-first · Logiciel**
 
-Un gestionnaire de notes pensé autour d'un principe simple : les données restent locales et sont chiffrées de bout en bout.
+Un gestionnaire de notes conçu autour d'un principe simple : garder les données là où elles appartiennent.
+
+Architecture locale, chiffrement et interface minimaliste se rencontrent dans une application pensée pour rester simple à utiliser.
 
 `TypeScript` · `React` · `ChaCha20`
 
@@ -146,17 +193,19 @@ Un gestionnaire de notes pensé autour d'un principe simple : les données reste
 
 <td width="50%" valign="top">
 
-### 📜 Awesome-Readme-Templates
+### 📚 Codex
 
-**README · Design · Open Source**
+**Connaissance · Markdown · Web**
 
-Une collection de modèles README conçus pour créer des profils GitHub sobres, élégants et cohérents.
+Un wiki moderne construit autour de fichiers Markdown.
 
-`Markdown`
+L'objectif : conserver la simplicité et la portabilité du texte tout en offrant une expérience de consultation moderne.
+
+`TypeScript`
 
 <br>
 
-→ **[Voir le dépôt](https://github.com/malicaeus/Awesome-Readme-Templates)**
+→ **[Voir le dépôt](https://github.com/malicaeus/Codex)**
 
 </td>
 </tr>
@@ -164,54 +213,57 @@ Une collection de modèles README conçus pour créer des profils GitHub sobres,
 
 ---
 
-### ◇ Autres réalisations
+### ◇ Expérimentations
 
 <details>
-<summary><strong>Voir les autres projets</strong></summary>
+<summary><strong>Explorer les autres travaux</strong></summary>
 
 <br>
 
-| Projet                                                               | Description                                   | Technologies                |
-| :------------------------------------------------------------------- | :-------------------------------------------- | :-------------------------- |
-| 📡 **[Wigle-Stats-HA](https://github.com/malicaeus/Wigle-Stats-HA)** | Statistiques WiGLE intégrées à Home Assistant | `Python` · `Home Assistant` |
-| 📚 **[Codex](https://github.com/malicaeus/Codex)**                   | Wiki moderne basé sur des fichiers Markdown   | `TypeScript`                |
+| Projet                                                                                   | Domaine              | Technologies                |
+| :--------------------------------------------------------------------------------------- | :------------------- | :-------------------------- |
+| 📡 **[Wigle-Stats-HA](https://github.com/malicaeus/Wigle-Stats-HA)**                     | Données · Domotique  | `Python` · `Home Assistant` |
+| 📜 **[Awesome-Readme-Templates](https://github.com/malicaeus/Awesome-Readme-Templates)** | Design · Open Source | `Markdown`                  |
 
 </details>
 
 ---
 
-## Ⅳ · Philosophie
+## Ⅴ · Recherche & curiosité
 
 <div align="center">
 
-### `SECURITY`
+```mermaid
+flowchart TD
+    A["CURIOSITÉ"] --> B["QUESTION"]
+    B --> C["EXPLORATION"]
 
-**Secure by design.**
+    C --> D["RECHERCHE"]
+    C --> E["EXPÉRIMENTATION"]
 
-La sécurité ne devrait pas être une couche ajoutée à la fin d'un projet.
-Elle doit être présente dès sa conception.
+    D --> F["COMPRÉHENSION"]
+    E --> F
 
-<br>
+    F --> G["CRÉATION"]
+    F --> H["NOUVELLES QUESTIONS"]
 
-### `SIMPLICITY`
+    H --> B
 
-**Complexité maîtrisée.**
+    classDef main fill:#0f0f0f,stroke:#c9a96e,color:#c9a96e,stroke-width:1.5px;
+    classDef accent fill:#c9a96e,stroke:#c9a96e,color:#0f0f0f,stroke-width:2px;
 
-La sophistication technique n'a de valeur que lorsqu'elle sert réellement le système.
+    class A,B,C,D,E,F,H main;
+    class G accent;
+```
 
-<br>
-
-### `DURABILITY`
-
-**Built to last.**
-
-Un bon système doit pouvoir évoluer sans perdre sa cohérence.
+*Certaines idées deviennent des projets.*
+*D'autres restent simplement des expériences.*
 
 </div>
 
 ---
 
-## Ⅴ · Activité GitHub
+## Ⅵ · Activité GitHub
 
 <div align="center">
 
@@ -227,30 +279,29 @@ Un bon système doit pouvoir évoluer sans perdre sa cohérence.
 
 ---
 
-## Ⅵ · En quelques mots
+## Ⅶ · Principia
 
 <div align="center">
 
-```mermaid
-flowchart TD
-    A["PRECISION"] --> B["ARCHITECTURE"]
+### `I`
 
-    B --> C["SECURITY"]
-    B --> D["ELEGANCE"]
+**Tout questionner.**
 
-    C --> E["DURABILITY"]
-    D --> E
+### `II`
 
-    classDef main fill:#0f0f0f,stroke:#c9a96e,color:#c9a96e,stroke-width:1.5px;
-    classDef final fill:#c9a96e,stroke:#c9a96e,color:#0f0f0f,stroke-width:2px;
+**Construire avec intention.**
 
-    class A,B,C,D main;
-    class E final;
-```
+### `III`
 
-<br>
+**Comprendre avant d'imiter.**
 
-**Curiosity · Precision · Security · Elegance · Progress**
+### `IV`
+
+**Laisser la simplicité survivre à la complexité.**
+
+### `V`
+
+**Laisser une place à l'inconnu.**
 
 </div>
 
@@ -260,7 +311,9 @@ flowchart TD
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:c9a96e,100:0f0f0f&height=100&section=footer" width="100%">
 
-### *Memento mori · Ad astra per aspera · In perpetuum*
+### *Ad astra per aspera*
+
+*Curiosité · Précision · Science · Élégance · Progrès*
 
 <br>
 
@@ -268,6 +321,6 @@ flowchart TD
 
 <br>
 
-<sub>Une étoile sur un dépôt est toujours appréciée. ✦</sub>
+<sub>Certaines choses sont plus intéressantes lorsqu'elles sont découvertes que lorsqu'elles sont expliquées. ✦</sub>
 
 </div>
